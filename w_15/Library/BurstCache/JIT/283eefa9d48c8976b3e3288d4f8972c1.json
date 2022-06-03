@@ -1,0 +1,8 @@
+{
+  "ExternalFunctions": [
+    {
+      "Name": "Unity.Burst.LowLevel.BurstCompilerService::Log",
+      "FullName": "Unity.Burst.LowLevel.BurstCompilerService.Log(void* userData, Unity.Burst.LowLevel.BurstCompilerService.BurstLogType logType, byte* message, byte* filename, int lineNumber) -> void_bd13e4e6795e8a3d11605b371a0c7085"
+    }
+  ]
+}
